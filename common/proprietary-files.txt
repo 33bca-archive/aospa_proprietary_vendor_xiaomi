@@ -560,6 +560,13 @@ vendor/lib/libqmiservices.so
 vendor/lib/libqmi.so
 vendor/lib/libsmemlog.so
 
+# QPerformance
+etc/permissions/com.qualcomm.qti.Performance.xml|e87b67d7915fde61551597669f98deddb0dc36ee
+-framework/QPerformance.jar|df79548e1e5e7ce1156ade6ed39191409706cbc2
+-vendor/lib/libqti_performance.so|7a0fdaa6e225a59734853fc09dee128a39819d4d
+-vendor/lib64/libqti_performance.so|0ee1280edba6221f63d4dba81f4b73ab4c0cf80c
+
+
 # RIL
 -app/embms/embms.apk
 -app/QtiTelephonyService/QtiTelephonyService.apk

@@ -101,6 +101,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/common/proprietary/etc/permissions/com.qti.location.sdk.xml:system/etc/permissions/com.qti.location.sdk.xml \
     vendor/xiaomi/common/proprietary/etc/permissions/com.qti.snapdragon.sdk.display.xml:system/etc/permissions/com.qti.snapdragon.sdk.display.xml \
     vendor/xiaomi/common/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
+    vendor/xiaomi/common/proprietary/etc/permissions/com.qualcomm.qti.Performance.xml:/system/etc/permissions/com.qualcomm.qti.Performance.xml \
     vendor/xiaomi/common/proprietary/etc/permissions/com.quicinc.cne.xml:system/etc/permissions/com.quicinc.cne.xml \
     vendor/xiaomi/common/proprietary/etc/permissions/dpmapi.xml:system/etc/permissions/dpmapi.xml \
     vendor/xiaomi/common/proprietary/etc/permissions/embms.xml:system/etc/permissions/embms.xml \
@@ -573,6 +574,7 @@ PRODUCT_PACKAGES += \
     libsdm-disp-apis \
     libthermalclient \
     libtime_genoff \
+    libqti_performance \
     QtiTelephonyService \
     TimeService \
     embms \
@@ -585,4 +587,5 @@ PRODUCT_PACKAGES += \
     colorservice \
     ims \
     imssettings \
-    qcrilhook
+    qcrilhook \
+    QPerformance
