@@ -268,9 +268,9 @@ etc/dpm/dpm.conf
 etc/dpm/nsrm/NsrmConfiguration.xml
 etc/permissions/com.qti.dpmframework.xml
 etc/permissions/dpmapi.xml
-framework/com.qti.dpmframework.jar
-framework/dpmapi.jar
-framework/tcmclient.jar
+-framework/com.qti.dpmframework.jar
+-framework/dpmapi.jar
+-framework/tcmclient.jar
 -priv-app/dpmserviceapp/dpmserviceapp.apk
 vendor/lib64/libdpmctmgr.so
 vendor/lib64/libdpmfdmgr.so
@@ -315,7 +315,7 @@ etc/permissions/com.qualcomm.location.xml
 etc/permissions/izat.xt.srv.xml
 etc/cacert_location.pem
 etc/xtra_root_cert.pem
-framework/com.qti.location.sdk.jar
+-framework/com.qti.location.sdk.jar
 framework/izat.xt.srv.jar
 -lib64/libloc_api_v02.so
 lib64/libloc_ds_api.so
