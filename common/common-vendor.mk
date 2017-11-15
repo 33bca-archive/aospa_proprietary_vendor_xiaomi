@@ -575,6 +575,7 @@ PRODUCT_PACKAGES += \
     tcmclient \
     TimeService \
     embms \
+    SimSettings \
     shutdownlistener \
     CNEService \
     QtiTetherService \

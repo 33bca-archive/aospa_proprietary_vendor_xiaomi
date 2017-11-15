@@ -418,6 +418,7 @@ etc/firmware/a530v3_gpmu.fw2
 etc/firmware/a530v3_seq.fw2
 
 # IMS
+-app/SimSettings/SimSettings.apk|d5cb89ee3bfa4c37e7a1d0a3ef51175fcdef6fa3
 bin/ims_rtp_daemon
 bin/imscmservice
 bin/imsdatadaemon
