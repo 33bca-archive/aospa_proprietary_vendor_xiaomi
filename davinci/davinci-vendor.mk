@@ -167,6 +167,45 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/davinci/proprietary/product/lib64/vendor.qti.ims.callinfo@1.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.qti.ims.callinfo@1.0.so \
     vendor/xiaomi/davinci/proprietary/product/lib64/vendor.qti.ims.rcsconfig@1.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.qti.ims.rcsconfig@1.0.so \
     vendor/xiaomi/davinci/proprietary/product/lib64/vendor.qti.imsrtpservice@2.0.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/vendor.qti.imsrtpservice@2.0.so \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_adsp_loader.ko:system/lib/modules/audio_adsp_loader.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_apr.ko:system/lib/modules/audio_apr.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_bolero_cdc.ko:system/lib/modules/audio_bolero_cdc.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_hdmi.ko:system/lib/modules/audio_hdmi.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_machine_talos.ko:system/lib/modules/audio_machine_talos.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_mbhc.ko:system/lib/modules/audio_mbhc.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_native.ko:system/lib/modules/audio_native.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_pinctrl_lpi.ko:system/lib/modules/audio_pinctrl_lpi.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_pinctrl_wcd.ko:system/lib/modules/audio_pinctrl_wcd.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_platform.ko:system/lib/modules/audio_platform.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_q6.ko:system/lib/modules/audio_q6.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_q6_notifier.ko:system/lib/modules/audio_q6_notifier.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_q6_pdr.ko:system/lib/modules/audio_q6_pdr.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_rx_macro.ko:system/lib/modules/audio_rx_macro.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_snd_event.ko:system/lib/modules/audio_snd_event.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_stub.ko:system/lib/modules/audio_stub.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_swr.ko:system/lib/modules/audio_swr.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_swr_ctrl.ko:system/lib/modules/audio_swr_ctrl.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_tfa98xx.ko:system/lib/modules/audio_tfa98xx.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_tx_macro.ko:system/lib/modules/audio_tx_macro.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_usf.ko:system/lib/modules/audio_usf.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_va_macro.ko:system/lib/modules/audio_va_macro.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_wcd934x.ko:system/lib/modules/audio_wcd934x.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_wcd937x.ko:system/lib/modules/audio_wcd937x.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_wcd937x_slave.ko:system/lib/modules/audio_wcd937x_slave.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_wcd9xxx.ko:system/lib/modules/audio_wcd9xxx.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_wcd_core.ko:system/lib/modules/audio_wcd_core.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_wcd_spi.ko:system/lib/modules/audio_wcd_spi.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_wglink.ko:system/lib/modules/audio_wglink.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_wsa881x.ko:system/lib/modules/audio_wsa881x.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/audio_wsa_macro.ko:system/lib/modules/audio_wsa_macro.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/exfat.ko:system/lib/modules/exfat.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/modules.alias:system/lib/modules/modules.alias \
+    vendor/xiaomi/davinci/proprietary/lib/modules/modules.dep:system/lib/modules/modules.dep \
+    vendor/xiaomi/davinci/proprietary/lib/modules/mpq-adapter.ko:system/lib/modules/mpq-adapter.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/mpq-dmx-hw-plugin.ko:system/lib/modules/mpq-dmx-hw-plugin.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/msm_11ad_proxy.ko:system/lib/modules/msm_11ad_proxy.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/qca_cld3_wlan.ko:system/lib/modules/qca_cld3_wlan.ko \
+    vendor/xiaomi/davinci/proprietary/lib/modules/wil6210.ko:system/lib/modules/wil6210.ko \
     vendor/xiaomi/davinci/proprietary/lib/soundfx/libvolumelistener.so:system/lib/soundfx/libvolumelistener.so \
     vendor/xiaomi/davinci/proprietary/lib64/soundfx/libvolumelistener.so:system/lib64/soundfx/libvolumelistener.so
 

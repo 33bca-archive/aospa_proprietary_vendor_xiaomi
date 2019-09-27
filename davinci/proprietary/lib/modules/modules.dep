@@ -1,0 +1,11 @@
+/system/lib/modules/llcc_perfmon.ko:
+/system/lib/modules/lcd.ko:
+/system/lib/modules/msm-geni-ir.ko:
+/system/lib/modules/mpq-adapter.ko:
+/system/lib/modules/msm_11ad_proxy.ko:
+/system/lib/modules/rdbg.ko:
+/system/lib/modules/mmc_test.ko:
+/system/lib/modules/br_netfilter.ko:
+/system/lib/modules/wil6210.ko: /system/lib/modules/msm_11ad_proxy.ko
+/system/lib/modules/gspca_main.ko:
+/system/lib/modules/mpq-dmx-hw-plugin.ko: /system/lib/modules/mpq-adapter.ko

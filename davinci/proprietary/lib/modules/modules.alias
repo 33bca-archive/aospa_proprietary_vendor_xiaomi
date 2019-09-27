@@ -1,0 +1,6 @@
+# Aliases extracted from modules themselves.
+alias of:N*T*Cqcom,llcc-perfmon llcc_perfmon
+alias of:N*T*Cqcom,llcc-perfmonC* llcc_perfmon
+alias pci:v00001AE9d00000310sv*sd*bc*sc*i* wil6210
+alias pci:v00001AE9d00000302sv*sd*bc*sc*i* wil6210
+alias pci:v000017CBd00001201sv*sd*bc*sc*i* wil6210
