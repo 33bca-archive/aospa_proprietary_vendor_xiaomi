@@ -206,8 +206,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/davinci/proprietary/lib/modules/msm_11ad_proxy.ko:system/lib/modules/msm_11ad_proxy.ko \
     vendor/xiaomi/davinci/proprietary/lib/modules/qca_cld3_wlan.ko:system/lib/modules/qca_cld3_wlan.ko \
     vendor/xiaomi/davinci/proprietary/lib/modules/wil6210.ko:system/lib/modules/wil6210.ko \
-    vendor/xiaomi/davinci/proprietary/lib/soundfx/libvolumelistener.so:system/lib/soundfx/libvolumelistener.so \
-    vendor/xiaomi/davinci/proprietary/lib64/soundfx/libvolumelistener.so:system/lib64/soundfx/libvolumelistener.so
+    vendor/xiaomi/davinci/proprietary/product/vendor_overlay/29/lib/soundfx/libvolumelistener.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib/soundfx/libvolumelistener.so \
+    vendor/xiaomi/davinci/proprietary/product/vendor_overlay/29/lib64/soundfx/libvolumelistener.so:$(TARGET_COPY_OUT_PRODUCT)/vendor_overlay/29/lib64/soundfx/libvolumelistener.so
 
 PRODUCT_PACKAGES += \
     libqcomfm_jni \
