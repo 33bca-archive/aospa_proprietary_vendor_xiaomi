@@ -1983,11 +1983,11 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libantradio \
-    vendor.qti.hardware.fm@1.0 \
     libMpeg4SwEncoder \
     libplatformconfig \
     libsdm-disp-vndapis \
     libthermalclient \
+    vendor.qti.hardware.fm@1.0 \
     CneApp \
     FingerprintExtensionService \
     IWlanService \
